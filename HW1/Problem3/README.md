@@ -8,7 +8,7 @@
 
 ### How to run
 
-To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label. If you want to run single assignment, just copy and run the function corresponding to that problem.
+To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label.
 
 ## Configuration
 
