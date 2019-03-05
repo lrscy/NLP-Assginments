@@ -8,7 +8,7 @@
 
 ### How to run
 
-To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label. If you want to run single assignment, just copy and run the function corresponding to that problem.
+To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label.
 
 ## Configuration
 
@@ -28,8 +28,8 @@ In problem 3.2:
 * ratio: the propotion of real train files in trainDataPath, others would be used as held-out data. Default is 1.
 
 In problem 3.3:
-* trainDataPath: the path contains all train data. Default is "./gutenberg".
-* encoding: the encoding of files in traindDataPath. Default is "Latin-1".
+* lmPath: the path contains all train data. Default is "./lm".
+* encoding: the encoding of files in lmPath. Default is "Latin-1".
 * savePath: the path to save language model. Default is "./3_3".
 * testDataPath: the path contains all test data. Default is "./test_data".
 
