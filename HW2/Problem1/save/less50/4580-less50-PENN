@@ -1,0 +1,3788 @@
+(ROOT
+  (S
+    (NP (DT The) (NN vote))
+    (VP (MD will)
+      (VP (VB take)
+        (NP (NN place) (NN tomorrow))
+        (PP (IN at)
+          (NP (CD 11.30) (RB a.m.)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ next) (NN item))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN report))
+        (PRN (-LRB- -LRB-)
+          (ADJP (JJ A5-0023)
+            (NP (NNP /) (CD 2000)))
+          (-RRB- -RRB-))
+        (PP
+          (PP (IN by)
+            (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge)))
+          (, ,)
+          (PP (IN on)
+            (NP
+              (NP (NN behalf))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNP Committee))
+                  (PP (IN on)
+                    (NP (NNP Agriculture)
+                      (CC and)
+                      (NNP Rural) (NNP Development)))))))
+          (, ,)
+          (PP (IN on)
+            (S
+              (NP
+                (NP (DT the) (NN proposal))
+                (PP (IN for)
+                  (NP (DT a) (NNP European) (NNP Parliament)
+                    (CC and)
+                    (NNP Council) (NNP directive))))
+              (VP (VBG amending)
+                (SBAR
+                  (S
+                    (NP (NNP Council) (NNP Directive))
+                    (VP
+                      (ADVP
+                        (NP (CD 91/68/EC))
+                        (RB as))
+                      (VBZ regards)
+                      (ADJP (JJ scrapie))
+                      (PRN (-LRB- -LRB-)
+                        (S
+                          (VP (VB COM)
+                            (S
+                              (NP
+                                (PRN (-LRB- -LRB-)
+                                  (NP (CD 1998))
+                                  (-RRB- -RRB-)))
+                              (VP (NN 623)
+                                (PRN (: -)
+                                  (NP (NNP C4-0026))
+                                  (: /))
+                                (NP
+                                  (NP (CD 1999) (: -) (CD 1998/0324))
+                                  (PRN (-LRB- -LRB-)
+                                    (NP (NNP COD))
+                                    (-RRB- -RRB-)))))))
+                        (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Mr) (NNP President))
+    (, ,)
+    (NP (NNP Commissioner))
+    (, ,)
+    (NP (NNS ladies)
+      (CC and)
+      (NNS gentlemen))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP
+        (VP (VBD was))
+        (CC and)
+        (VP
+          (ADVP (RB always))
+          (MD will)
+          (VP (VB be)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP
+                  (NP (NN life) (POS '))
+                  (JJ s) (NNS mysteries))))))))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ unsolved) (NNS riddles))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN follow-up))
+              (PP (TO to)
+                (NP (DT the) (NNP BSE) (NN crisis)))))
+          (, ,)
+          (SBAR (IN that)
+            (S
+              (NP (PRP we))
+              (ADVP (RB still))
+              (VP (VBP have)
+                (NP (DT no) (NNP Community) (NNS rules))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN control))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN scrapie))
+                        (PP (IN in)
+                          (NP (NN sheep)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD should) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (SBAR (IN that)
+                (S
+                  (NP (DT no) (JJ new) (JJ scientific) (NN knowledge))
+                  (VP (VBD was)
+                    (VP (VBN needed)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD proved)
+                            (SBAR (IN that)
+                              (S
+                                (NP
+                                  (NP (DT the) (JJ experimental) (NN infection))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (NN sheep))
+                                      (PP (IN by)
+                                        (S
+                                          (VP (VBG feeding)
+                                            (NP (PRP them))
+                                            (NP (JJ BSE-infected) (NN feed))))))))
+                                (VP (VBD produced)
+                                  (NP
+                                    (NP (DT a) (JJ clinical) (NN expression))
+                                    (PP (IN of)
+                                      (NP
+                                        (NP (DT the) (NN disease))
+                                        (SBAR
+                                          (WHNP (WDT which))
+                                          (S
+                                            (VP (VBZ is)
+                                              (ADJP (JJ indistinguishable)
+                                                (PP (IN from)
+                                                  (NP
+                                                    (NP (DT the) (NNS symptoms))
+                                                    (PP (IN of)
+                                                      (NP (NN scrapie)))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (JJ new) (NN knowledge))
+    (VP (VBD was)
+      (VP (VBN needed) (, ,)
+        (SBAR (IN because)
+          (S
+            (S
+              (NP
+                (NP (DT the) (NN theory))
+                (PP (IN from)
+                  (NP (DT the) (NN beginning))))
+              (VP (VBD was)
+                (SBAR (IN that)
+                  (S
+                    (NP (NNP BSE)
+                      (CC and)
+                      (NNP scrapie))
+                    (VP (MD must)
+                      (VP (VB be)
+                        (VP (VBN related))))))))
+            (CC and)
+            (S
+              (NP (DT this) (NN theory))
+              (VP (VBZ has)
+                (ADVP (RB increasingly))
+                (VP (VBN taken)
+                  (S
+                    (VP (VB hold))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN From)
+      (NP
+        (NP (DT this) (NN point))
+        (PP (IN of)
+          (NP (NN view)))))
+    (NP (PRP we))
+    (VP (VBP are)
+      (ADVP (RB slightly))
+      (PP (IN behind)
+        (NP (DT the) (NNS times))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADVP (RB therefore))
+      (PP (IN in)
+        (NP (JJ complete) (NN agreement)))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (DT the) (NNP Commission) (POS '))
+            (JJ s) (NN proposal))
+          (PP (IN on)
+            (NP (NN scrapie))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD should) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP it))
+                  (ADVP (RB only))
+                  (VP (VBZ makes)
+                    (NP (NN sense))
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP we))
+                        (VP (VB ensure)
+                          (SBAR (IN that)
+                            (S
+                              (NP (DT the) (JJ new) (NNP TSE) (NN regulation))
+                              (VP (VBZ allows)
+                                (NP
+                                  (NP (DT a) (JJ reasonable) (NNS symbiosis))
+                                  (PP (IN between)
+                                    (NP (NN consumer) (NN protection)
+                                      (CC and)
+                                      (NN practicable) (NNS suggestions))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (RB therefore))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP
+                (NP (JJ consistent) (NN account))
+                (PP (IN of)
+                  (NP (CD six)
+                    (CC or)
+                    (CD seven) (NNS points))))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (VBG coming) (NN debate))
+                  (PP (IN on)
+                    (NP (DT the) (NNP TSE) (NN proposal))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT that))
+        (PP (IN of)
+          (NP (NN course))))
+      (VP (VBZ includes)
+        (ADJP (JJ scrapie))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VB discuss)
+          (NP (DT the) (NNP TSE) (NN regulation))
+          (, ,)
+          (NP (NNP Commissioner)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD must)
+      (ADVP (RB also))
+      (VP (VB clarify)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (ADVP (RB shortly))
+            (VP (VBP intend)
+              (S
+                (VP (TO to)
+                  (VP (VB discuss)
+                    (NP (JJ separate) (NNS proposals))
+                    (PP (IN under)
+                      (NP (NNP Article) (CD 152)))
+                    (PP (IN as)
+                      (NP
+                        (NP (DT the) (JJ corresponding) (JJ legal) (NN base))
+                        (PP (IN for)
+                          (NP
+                            (NP (NNS products))
+                            (VP (VBN excluded)
+                              (PP (IN from)
+                                (NP (DT this) (NN regulation))))
+                            (, ,)
+                            (PP (JJ such) (IN as)
+                              (NP
+                                (NP (NNS cosmetics))
+                                (, ,)
+                                (NP (JJ medicinal) (NNS products))
+                                (CC or)
+                                (NP (NN animal) (NN feed))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP insist)
+      (PP (IN on)
+        (NP (DT this))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB far)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (ADJP (JJ concerned))))))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ fundamental) (NN core) (NNS provisions))
+            (PP (IN in)
+              (NP (DT this) (VBN proposed) (NN regulation))))
+          (VP (MD must) (RB not)
+            (VP (VB be)
+              (VP
+                (VP (VBN relegated)
+                  (ADVP (RB yet) (RB again))
+                  (PP (TO to)
+                    (NP (DT the) (NNP Annex))))
+                (CC but)
+                (VP (VBN included)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN body))
+                      (PP (IN of)
+                        (NP (DT the) (JJ proposed) (NN regulation)))))
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP we))
+                      (VP
+                        (VP
+                          (ADVP (RB here)
+                            (PP (IN in)
+                              (NP (NNP Parliament))))
+                          (VBP want)
+                          (PP (TO to)))
+                        (CC and)
+                        (VP (MD will)
+                          (VP (VB assume)
+                            (NP (JJ joint) (NN responsibility))
+                            (ADVP (RB here))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB also))
+    (VP (VBZ means)
+      (SBAR (IN that) (, ,)
+        (S
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP we))
+              (VP (VBP are)
+                (VP (VBG fighting)
+                  (NP (DT these) (NNS diseases))))))
+          (, ,)
+          (NP
+            (NP (DT the) (NN problem))
+            (PP (IN of)
+              (S
+                (VP (VBG destroying)
+                  (NP (JJ whole) (NNS herds))
+                  (PP (IN in)
+                    (NP
+                      (NP
+                        (NP (DT the) (NN event))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT an) (NN outbreak))
+                            (PP (IN of)
+                              (NP (NNP scrapie)
+                                (CC or)
+                                (NNP BSE))))))
+                      (CC and)
+                      (NP
+                        (NP (DT the) (NN question))
+                        (PP (IN of)
+                          (S
+                            (VP (VBG defining)
+                              (NP (JJ geographical) (NNS areas))))))))))))
+          (VP (VBP are)
+            (NP
+              (NP (NNS items))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (ADVP (RB also))
+                  (VP (VBP remain)
+                    (PP (IN on)
+                      (NP (DT the) (NN agenda)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD should)
+      (ADVP (RB also))
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB address)
+              (NP (CD two) (JJ other) (NNS points)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB expressly))
+    (VP (VBP welcome)
+      (NP
+        (NP (DT the) (JJ regional) (NN classification))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN status))
+            (PP (IN of)
+              (NP (NNP Member) (NNPS States))))))
+      (PP (IN as)
+        (NP
+          (NP (JJ regards) (NNS outbreaks))
+          (PP (IN of)
+            (NP (NN scrapie)
+              (CC or)
+              (NNS TSEs))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Here))
+      (ADVP (RB again))
+      (NP (DT the) (NNP Commission))
+      (VP (VBZ is)
+        (VP (VBG increasing)
+          (NP (PRP$ its) (NN response))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN work))
+              (VP (VBN carried)
+                (PRT (RP out))
+                (PP (IN by))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS demands))
+      (VP (VBD made)
+        (PP (IN by)
+          (NP (NNP Parliament)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (PP (IN in)
+      (S
+        (VP (VBG discussing)
+          (NP
+            (NP (DT the) (NN question))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ future) (NN application))
+                (PP (IN of)
+                  (NP (NNS tests)))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD should)
+      (PP (IN of)
+        (NP (NN course)))
+      (VP (VB bear)
+        (PP (IN in)
+          (NP (NN mind)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBP have)
+              (ADVP (RB still) (RB not))
+              (VP (VBN reached)
+                (NP (DT the) (NN point))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (NNS tests))
+                    (VP (VBP are)
+                      (ADJP (RB generally) (JJ applicable)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NNS tests))
+      (ADJP (JJ available)))
+    (ADVP (RB now))
+    (VP (VBP are)
+      (ADJP (RB perfectly) (JJ able)
+        (PP (TO to)
+          (NP
+            (NP (NN guarantee) (NN security))
+            (PP (IN in)
+              (NP (NN consumer) (NN health) (NN policy))))))
+      (, ,)
+      (ADVP (IN albeit) (RB not))
+      (PP (IN for)
+        (NP (DT every) (JJ individual) (NN animal))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ grateful)
+          (PRN (, ,)
+            (NP (NNP Commissioner))
+            (, ,))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (MD would)
+                (VP
+                  (VP (VB take)
+                    (NP (DT these) (VBG passing) (NNS comments))
+                    (PP
+                      (PP (IN on)
+                        (NP
+                          (NP (NN board))
+                          (PP (IN in)
+                            (NP
+                              (NP (DT the) (NN report))
+                              (PP (IN on)
+                                (NP (NN scrapie)))))))
+                      (CC and)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (JJ general) (NN report))
+                          (PP (IN on)
+                            (NP
+                              (NP (DT the) (NN fight))
+                              (PP (IN against)
+                                (NP (NNP TSEs)))))))))
+                  (CC and)
+                  (VP (VB bear)
+                    (PP (IN in)
+                      (NP (NN mind)))))))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD shall)
+              (VP (VB be)
+                (VP (VBG calling)
+                  (S
+                    (NP (PRP you))
+                    (VP (TO to)
+                      (VP (VB account)
+                        (PP (IN on)
+                          (NP (DT these) (NNS points)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Mr) (NNP President))
+        (, ,)
+        (PP (IN over)
+          (NP (DT the) (NNS years)))
+        (, ,))
+      (X
+        (NP (DT the) (VBG following) (NN situation)))
+      (VP (VBZ has)
+        (VP (VBN arisen))))
+    (: :)
+    (S
+      (NP (CD one) (NN subject))
+      (VP (VBZ has)
+        (VP (VBN developed)
+          (PP (IN into)
+            (NP
+              (NP (DT a) (NN subject))
+              (PP (IN of)
+                (NP (JJ many) (NNS facets))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP (PRP us))))
+    (ADVP (RB here)
+      (PP (IN in)
+        (NP (DT this) (NNP House))))
+    (VP (VBP have)
+      (VP (VBN spent)
+        (NP (NNS years))
+        (, ,)
+        (SBAR (IN whether)
+          (S
+            (NP (PRP we))
+            (VP (VBD intended)
+              (ADVP (TO to)
+                (CC or)
+                (RB not))
+              (, ,)
+              (S
+                (VP (VBG dealing)
+                  (ADVP (RB solely))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NNS consequences))
+                      (PP (IN of)
+                        (NP (DT the) (NNP BSE) (NN scandal)))
+                      (ADVP (RB right) (RB down)
+                        (PP (TO to)
+                          (NP (DT the) (JJ last) (NN detail)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (PP (IN on)
+        (NP (DT the) (NN agenda) (NN today))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB therefore))
+      (ADJP (RB hardly) (JJ surprising))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (PRP I))
+              (CC and)
+              (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge)))
+            (VP (VBP are)
+              (VP (VBG talking)
+                (PP (IN about)
+                  (NP (PRP it)))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Mr) (NNP Graefe) (NNP zu) (NNP Baringdorf))
+            (VP (VBZ has)
+              (ADVP (RB just))
+              (VP (VBN mentioned)
+                (NP (PRP it))
+                (PP (IN in)
+                  (NP (PRP$ his) (NN report)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cast))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP (DT the) (JJ same)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN cause))
+        (VP (VBD was)
+          (ADJP (JJ unfortunate)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP (RB certainly))
+      (NP
+        (NP (RB not) (DT the) (JJS worst) (NN experience))
+        (PP (IN of)
+          (NP (DT this) (NNP Parliament)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN task))
+      (PP (IN as)
+        (NP
+          (NP (NN draftsman))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN opinion))
+              (PP (IN of)
+                (NP (DT the) (NNP Environment) (NNP Committee))))))))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB very) (JJ simple))
+        (NN one)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP agree)
+        (PP (IN with)
+          (NP (DT the) (NN rapporteur))))
+      (CC and)
+      (VP (VBP am)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (SBAR (IN that)
+                  (S
+                    (NP (DT the) (NNP Environment) (NNP Committee))
+                    (VP (VBZ has)
+                      (VP (VBN asked)
+                        (NP (DT the) (NNP Committee))
+                        (PP (IN on)
+                          (NP (NNP Agriculture)
+                            (CC and)
+                            (NNP Rural) (NNP Development)))
+                        (S
+                          (VP (TO to)
+                            (VP (VB agree)
+                              (PP (TO to)
+                                (NP (DT the) (NNP Commission) (NN proposal))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ saves)
+      (NP
+        (NP (DT a) (JJ great) (NN deal))
+        (PP (IN of)
+          (NP (NN time)))
+        (SBAR
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP I))
+              (VP (MD would)
+                (VP (VB like)
+                  (S
+                    (VP (TO to)
+                      (VP (VB use)
+                        (PP (IN for)
+                          (NP (JJ other) (NNS things))))))))))
+          (CC and)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP I))
+              (VP (MD shall)
+                (VP (VB use)
+                  (ADVP (RB now) (RB somewhat))
+                  (PP (IN in)
+                    (NP (NN anticipation)))))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge))
+          (VP (VBZ has)
+            (ADVP (RB just))
+            (VP (VBN done))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB yet))
+      (S
+        (VP (TO to)
+          (VP (VB submit)
+            (NP (PRP$ my) (NN report))
+            (PP (IN on)
+              (NP (NNP TSEs)))
+            (PP (TO to)
+              (NP (DT the) (NNP House)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN At)
+        (NP (JJ first)))
+      (NP (PRP we))
+      (VP (VBD were)
+        (ADJP (RB somewhat) (JJ irresolute))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP regret)
+        (NP (DT that))
+        (ADVP (RB now))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN come)
+        (PP (TO to)
+          (NP (DT the) (NN conclusion)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (PP (IN in)
+                (NP (NN fact)))
+              (ADVP (RB quite)
+                (NP (JJ clever) (NN timing))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN debate))
+    (VP (VBZ does)
+      (SBAR (IN in)
+        (S
+          (NP (NN fact))
+          (VP (VBP give)
+            (NP (PRP us))
+            (NP
+              (NP (DT an) (JJ excellent) (NN opportunity))
+              (, ,)
+              (NP (NNP Mr) (NNP Byrne))
+              (, ,)
+              (S
+                (VP (TO to)
+                  (VP (VB give)
+                    (NP (DT the) (NNP Commission))
+                    (NP (DT a) (JJ few) (NNS things)
+                      (S
+                        (VP (TO to)
+                          (VP (VB think)
+                            (PRT (RP about))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP we))
+        (VP
+          (VP (VBD did) (RB not)
+            (VP (VB have)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB very) (JJ positive))
+                  (NN exchange))
+                (PP (IN on)
+                  (NP
+                    (NP (NNP Mr) (NNP Graefe) (NNP zu) (NNP Baringdorf) (POS '))
+                    (JJ s) (NN report))))
+              (ADVP (RBR earlier) (IN on))))
+          (CC and)
+          (VP (MD will)
+            (ADVP (RB certainly))
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB agree)
+                    (S
+                      (VP (TO to)
+                        (VP (VB disagree))))))))))))
+    (, ,)
+    (NP (NNS things))
+    (VP (MD may)
+      (VP (VB be)
+        (ADJP (JJ different)
+          (PP (IN with)
+            (NP (DT this) (NN report))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB become)
+        (ADJP (RBR more) (JJ difficult))
+        (SBAR (IN once)
+          (S
+            (NP (PRP we))
+            (VP (VBP see)
+              (NP
+                (NP (DT the) (NNP TSE) (NN proposal))
+                (, ,)
+                (NP (NNP Mr) (NNP Byrne))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VBP have)
+          (NP (DT the) (NN chance)
+            (S
+              (VP (TO to)
+                (VP (VB ask)
+                  (NP (JJ direct) (NNS questions)))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS questions))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge))
+          (VP (VBD referred)
+            (PP (TO to))))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN asked))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Questions))
+    (VP (MD will)
+      (VP (VB be)
+        (VP
+          (VP (VBN asked))
+          (PRN (: -)
+            (NP
+              (NP
+                (NP (NNS questions))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (PRP I))
+                    (VP (MD shall)
+                      (VP (VB have)
+                        (S
+                          (VP (TO to)
+                            (VP (VB put)
+                              (PP (TO to)
+                                (NP (PRP you)))))))))))
+              (CC and)
+              (NP
+                (NP (DT the) (NNP Commission) (NNS representatives))
+                (PP (IN in)
+                  (NP (NN committee)))))
+            (: -))
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (NNS things))
+                (VP (VBP stand)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NNP BSE) (NN status))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NNP Member) (NNPS States))
+                          (CC and)
+                          (NP (JJ other) (JJ third) (NNS countries)))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (MD will)
+      (NP
+        (NP (NNP BSE) (NN status))
+        (PP (IN in)
+          (NP (NN fact))))
+      (VP (VB be)
+        (VP (VBN defined)
+          (ADVP (RB then)))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP you))
+    (VP (VB envisage)
+      (NP
+        (NP (NNS circumstances))
+        (SBAR
+          (WHPP (IN under)
+            (WHNP (WDT which)))
+          (S
+            (NP (DT the) (NNP BSE) (NN status))
+            (VP (MD will)
+              (VP (VB depend)
+                (PP (IN on)
+                  (NP (DT the) (NN willingness)
+                    (S
+                      (VP (TO to)
+                        (VP (VB apply)
+                          (NP (DT a) (NNP BSE) (NN test)))))))))))))
+    (. ?)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (NN standing) (NN question))
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (PRP you))
+              (NP (NNP Mr) (NNP Byrne)))
+            (, ,)
+            (NP
+              (NP (DT a) (NN question))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (ADVP (RB certainly))
+                  (VP
+                    (ADVP (RB already))
+                    (VBP know)))))
+            (CC and)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD will) (RB not)
+                  (VP (VB surprise)
+                    (NP (PRP you))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (IN about)
+      (NP (DT the) (NNP BSE) (NN test)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (MD will)
+      (NP (PRP you))
+      (VP (VB make)
+        (NP (PRP it))
+        (ADVP (RB compulsory))))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Perhaps))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB do)
+        (ADVP (RB so)
+          (PP (IN before)
+            (NP (NNP Parliament) (NNS debates))))
+        (NP (DT the) (NNP TSE) (NN report))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (RB Not) (IN that)
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB put)
+                  (NP (PRP it))
+                  (PRT (RP off)))))))
+        (, ,)
+        (CC but)
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP (VB be)
+              (NP (DT a) (NN gesture))
+              (PRN (, ,)
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD were))))
+                (, ,))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (MD could)
+                    (VP (VB say))))))))))
+    (: :)
+    (VP
+      (ADVP (RB here))
+      (VBZ is)
+      (NP
+        (NP (DT the) (VBN proposed) (NN legislation))
+        (PP (IN on)
+          (NP (DT the) (NNP BSE) (NN test)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP know)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP am)
+              (NP
+                (NP (DT a) (NN thorn))
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ your) (NN side))
+                    (PP (IN on)
+                      (NP (DT this)))))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (ADVP (RB sometimes))
+          (IN that)
+          (S
+            (VP (VBZ is)
+              (NP (PRP$ my) (NN job)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP say)
+      (ADVP (RB quite))
+      (ADVP (RB emphatically))
+      (, ,)
+      (SBAR (RB even) (IN after)
+        (S
+          (NP
+            (NP (DT the) (NN report))
+            (PP (IN by)
+              (NP
+                (NP (NNP Mr) (NNP Graefe) (NNP zu) (NNP Baringdorf))
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (RB completely) (VBN involved)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (JJ whole) (NN idea))
+                            (, ,)
+                            (NP (DT that) (NN animal) (NN feeding))
+                            (, ,)
+                            (NP (NN animal) (NN rearing))
+                            (, ,)
+                            (NP (NN animal) (NN production)))))))))))
+          (VP
+            (VP (MD must)
+              (VP (VB be)
+                (VP (VBN suited)
+                  (PP (TO to)
+                    (NP (DT the) (NN species))))))
+            (CC and)
+            (VP (MD must)
+              (ADVP
+                (ADVP (RB also))
+                (PRN (, ,)
+                  (ADVP (IN above) (DT all))
+                  (, ,)))
+              (VP (VB cause)
+                (NP (DT no) (NN harm)
+                  (CC or)
+                  (NN danger))
+                (PP (TO to)
+                  (NP (JJ human) (NNS beings)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (UCP (NN Cosmetic) (, ,) (JJ medical)
+        (CC and)
+        (JJ other))
+      (NNS products))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP (VBN excluded)
+          (PP (IN on)
+            (NP (DT the) (NNS grounds)))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (VBP cause)
+                  (NP (DT no) (NN harm)))
+                (CC or)
+                (VP (VBP are) (RB not)
+                  (ADJP (JJ dangerous)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is) (, ,)
+      (ADVP (IN without) (NN doubt))
+      (, ,)
+      (ADJP
+        (ADJP (RB too) (JJ short))
+        (, ,)
+        (ADJP (RB too) (JJ sweet))
+        (CC and)
+        (ADJP (RB too) (JJ little))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP are)
+        (ADJP (JJ lucky)
+          (SBAR (IN that)
+            (S
+              (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NN ge) ('' '))
+              (VP (VBZ s)
+                (VP (VB report)
+                  (NP (JJ only) (NNS deals))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT this))
+                      (PP (IN on)
+                        (NP (DT the) (NNS sidelines))))))))))))
+    (: ;)
+    (S
+      (PP (IN with)
+        (NP (PRP$ my) (NN report)))
+      (S
+        (NP (PRP you))
+        (VP (MD will)
+          (VP (VB have)
+            (S
+              (VP (TO to)
+                (VP (VB justify)
+                  (S
+                    (NP (PRP yourself))
+                    (ADJP (RBR more) (RB thoroughly)))))))))
+      (CC and)
+      (S
+        (NP (PRP you))
+        (VP (MD will)
+          (VP (VB have)
+            (NP
+              (NP (JJR more) (NN trouble))
+              (VP (VBG doing)
+                (ADVP (RB so))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Finally))
+    (, ,)
+    (NP
+      (NP (RB just) (CD one))
+      (NP (JJR more) (JJ brief) (NN comment)))
+    (, ,)
+    (NP (NNP Mr) (NNP Byrne))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP have)
+      (NP (DT a) (JJ new) (NNP Commission)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Whether)
+      (S
+        (NP
+          (NP
+            (QP (CC or)
+              (RB not)))
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (MD will)
+                (VP (VB agree)
+                  (PP (IN with)
+                    (NP (DT the) (NN work))))))))
+        (VP (VBD carried)
+          (PRT (RP out))
+          (PP (IN by)
+            (NP
+              (NP (DT this) (NNP Commission))
+              (CC and)
+              (NP
+                (NP (DT the) (NNP President))
+                (PP (IN of)
+                  (NP (DT the) (NNP Commission)))))))))
+    (, ,)
+    (NP (RB only) (NN time))
+    (VP (MD will)
+      (VP (VB tell)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one) (NN thing))
+        (SBAR
+          (S
+            (S
+              (NP (PRP we))
+              (ADVP (RB certainly))
+              (VP (MD will) (RB not)
+                (VP (VB let)
+                  (S
+                    (NP (PRP you))
+                    (VP (VB get)
+                      (PRT (RP away))
+                      (PP (IN with)))))))
+            (CC and)
+            (S
+              (NP (PRP I))
+              (VP (VBP am)
+                (ADJP (JJ sure))
+                (SBAR (IN that) (, ,)
+                  (S
+                    (PP (IN as)
+                      (NP (DT a) (NN lawyer)
+                        (CC and)
+                        (NN politician)))
+                    (NP (PRP you))
+                    (VP (MD will)
+                      (VP (VB understand)
+                        (NP (DT this))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Important) (NNS issues))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP (VBN regulated)
+          (PP (IN in)
+            (NP (NNS annexes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP belong)
+      (PP (IN in)
+        (NP (DT the) (JJ legislative) (NN text))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD might)
+        (VP (VB do)
+          (NP (DT the) (JJ same))
+          (SBAR (IN if)
+            (S
+              (NP (PRP I))
+              (VP (VBD were)
+                (NP (DT a) (NNP Commissioner))
+                (, ,)
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP I))
+                    (VP (MD could)
+                      (ADVP (RB simply))
+                      (VP (VB change)
+                        (NP (DT an) (NN annex))
+                        (PP (IN under)
+                          (NP (DT a) (JJ comitology) (NN procedure)))))))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD would) (RB not)
+        (ADVP (RB always))
+        (VP (VB need)
+          (S
+            (VP (TO to)
+              (VP (VB work)
+                (PP (IN with)
+                  (NP
+                    (NP (NNP Parliament))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP
+                          (VP (VBZ takes)
+                            (ADVP (RB so) (RB long)))
+                          (CC and)
+                          (VP (VBZ is)
+                            (ADJP (RB so) (JJ difficult))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP you))
+    (VP (MD must)
+      (VP (VB understand)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD can) (RB not)
+              (VP (VB let)
+                (S
+                  (NP (PRP you))
+                  (VP (VB get)
+                    (PRT (RP away))
+                    (PP (IN with)
+                      (NP (DT this)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ other) (NNS words)))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB whenever))
+      (S
+        (NP (PRP I))
+        (VP (VBP get)
+          (NP (DT the) (NN chance)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD shall)
+      (VP
+        (VP (VB take)
+          (NP (NN everything))
+          (PRT (RP out))
+          (PP (IN of)
+            (NP (DT the) (NNS annexes))))
+        (CC and)
+        (VP (VB cram)
+          (NP (PRP it))
+          (PP (IN into)
+            (NP (DT the) (JJ legislative) (NN text))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP you))
+    (VP (MD would)
+      (VP (VB be)
+        (VP
+          (ADVP (RB well))
+          (VBN advised)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (ADVP (RB likewise))
+                (PP (IN from)
+                  (NP (DT the) (NN outset)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr) (NNP President))
+    (, ,)
+    (ADVP (RB Commissioner))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD should)
+      (VP (VB like)
+        (SBAR
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB remind)
+                  (NP (PRP you))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN composition))
+                      (PP (IN of)
+                        (NP (PRP$ our) (NN food) (NN chain)))))))))
+          (CC and)
+          (SBAR
+            (WHADJP (WRB how) (JJ important))
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (PP (IN for)
+                  (NP (DT this) (NN chain)
+                    (S
+                      (VP (TO to)
+                        (VP (VB provide)
+                          (NP (PRP us))
+                          (PP (IN with)
+                            (NP
+                              (NP (JJ safe) (, ,) (JJ healthy) (NN food))
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (VP (VBZ is)
+                                    (VP (VBN produced) (, ,)
+                                      (PP (IN as)
+                                        (NP
+                                          (NP (DT a) (NN matter))
+                                          (PP (IN of)
+                                            (NP (NN principle)))))
+                                      (, ,)
+                                      (PP (IN without)
+                                        (NP (DT any)
+                                          (ADJP (JJ questionable)
+                                            (CC or)
+                                            (JJ risky))
+                                          (NN interim)
+                                          (CC or)
+                                          (NN end) (NNS products))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP (JJ recent) (NNS years)))
+    (, ,)
+    (NP (DT these) (JJ basic) (NNS principles))
+    (VP (VBP have)
+      (ADVP (RB often))
+      (VP (VBN been)
+        (VP (VBN neglected)
+          (PP
+            (PP (IN in)
+              (NP (NN animal) (NN husbandry)))
+            (CC and)
+            (PP (IN in)
+              (NP
+                (NP (JJ epidemiological) (NNS matters))
+                (PP (RB because) (IN of)
+                  (NP (JJ shoddy) (NN practice)
+                    (CC or)
+                    (NN greed)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP European) (NNP Parliament))
+      (VP (VBZ has)
+        (ADVP (RB already))
+        (VP (VBN taken)
+          (NP (DT a) (JJ clear) (NN stand))
+          (PP (IN on)
+            (NP (NNP BSE))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD should)
+              (VP (VB do)
+                (ADVP (RB likewise))
+                (PP (IN on)
+                  (NP
+                    (NP (DT all) (NNS epidemics))
+                    (PP (IN in)
+                      (NP (NNS animals)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD should) (RB not)
+      (VP (VB allow)
+        (NP (NN food) (NN safety))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN compromised)
+                (SBAR (IN because)
+                  (S (, ,)
+                    (PP (IN in)
+                      (NP (DT the) (JJ final) (NN analysis)))
+                    (, ,)
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (NP
+                        (NP (PRP$ our) (NN health))
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBZ is)
+                              (PP (IN at)
+                                (NP (NN stake))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Commission) (POS '))
+      (JJ s) (NN proposal))
+    (VP (VBZ encompasses)
+      (NP (PDT both)
+        (NP (DT the) (NN transportation))
+        (CC and)
+        (NP (DT the) (NN placing)))
+      (PP (IN on)
+        (NP
+          (NP
+            (NP (DT the) (NN market))
+            (PP (IN of)
+              (NP (NN sheep)
+                (CC and)
+                (NNS goats))))
+          (CC and)
+          (NP (DT a) (NNP Community) (NN regulation)
+            (S
+              (VP (TO to)
+                (VP (VB fight)
+                  (NP (NN scrapie)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADJP (RB even) (RBR more) (JJ important))
+      (PP (VBN given)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP (DT no) (JJ clear) (NN proof))
+              (SBAR (IN that)
+                (S
+                  (NP (NNP BSE)
+                    (CC and)
+                    (NNP scrapie))
+                  (VP (VBP are)
+                    (ADJP (JJ unrelated))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Animals))
+    (VP (VBP are)
+      (VP
+        (VP (VBN bought)
+          (PP (IN throughout)
+            (NP (NNP Europe))))
+        (CC and)
+        (VP (VBN transported)
+          (PP (IN over)
+            (NP (DT the) (JJ entire) (NN continent))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN spread))
+      (PP (IN of)
+        (NP
+          (NP (DT an) (NN epidemic))
+          (PP (IN as)
+            (NP
+              (NP (DT the) (NN result))
+              (PP (IN of)
+                (S
+                  (VP (VBG bringing)
+                    (PP (IN in)
+                      (NP (CD one) (JJ sick) (NN animal)))))))))))
+    (VP (MD can)
+      (VP (VB have)
+        (NP
+          (NP (JJ huge) (NNS consequences))
+          (PP (IN for)
+            (NP (NNS farmers))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (MD should)
+      (VP (VB point)
+        (PRT (RP out))
+        (SBAR (IN that)
+          (S
+            (PRN (, ,)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (JJ first) (NN time))
+                  (PP (IN in)
+                    (NP (NN history)))))
+              (, ,))
+            (NP
+              (NP (DT a) (NN case))
+              (PP (IN of)
+                (NP (NN scrapie))))
+            (VP (VBD was)
+              (VP (VBN detected)
+                (PP (IN in)
+                  (NP (NNP Austria)))
+                (ADVP
+                  (NP
+                    (QP (RB about) (CD four))
+                    (NNS weeks))
+                  (RB ago))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Scrapie))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB particularly) (JJ insidious))
+        (NN disease))
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NN pathogen))
+          (VP
+            (VP (MD can)
+              (VP (VB remain)
+                (ADJP (JJ active)
+                  (PP (IN in)
+                    (NP (NN dust))))
+                (PP (IN for)
+                  (NP (NNS years)))))
+            (CC and)
+            (VP (VBZ is)
+              (ADVP (RB then))
+              (VP (VBN ingested)
+                (PP (IN in)
+                  (NP (NN food)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN disease))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ fatal)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP (DT no) (NN vaccination)))))
+    (, ,)
+    (NP (NNS farmers))
+    (VP (MD can)
+      (ADVP (RB only))
+      (VP (VB protect)
+        (NP (PRP themselves))
+        (PP (IN by)
+          (S (RB not)
+            (VP (VBG buying)
+              (NP (NNS animals))
+              (PP (IN from)
+                (NP
+                  (NP (NNS countries))
+                  (SBAR
+                    (WHPP (IN in)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (EX there))
+                      (VP (VBP are)
+                        (NP
+                          (NP (NNS cases))
+                          (PP (IN of)
+                            (NP (NN scrapie))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN if)
+      (S
+        (NP (NN scrapie))
+        (VP (MD can) (RB not)
+          (VP (VB be)
+            (VP (VBN passed)
+              (PP (IN on)
+                (PP (TO to)
+                  (NP (JJ human) (NNS beings)))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN connection))
+      (PP (IN with)
+        (NP (NNP BSE))))
+    (VP (VBZ has)
+      (ADVP (RB still) (RB not))
+      (VP (VBN been)
+        (VP (VBN clarified) (, ,)
+          (SBAR (IN as)
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (ADVP (RB already))
+                (VP (VBN said))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN farmer) (PRP myself)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP
+        (ADJP (RBS most) (VBN concerned))
+        (SBAR (IN that)
+          (S
+            (NP (NN consumer) (NN health))
+            (VP (MD should) (RB not)
+              (VP (VB be)
+                (VP (VBN put)
+                  (PP (IN at)
+                    (NP (NN risk))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (PP (IN in)
+        (NP
+          (NP (NN favour))
+          (PP (IN of)
+            (NP (JJ preventive) (NNS measures)))))
+      (, ,)
+      (PP (VBG starting)
+        (PP (IN with)
+          (NP
+            (NP (NN feeding))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ suitable)
+                    (PP (IN for)
+                      (NP
+                        (NP (DT the) (NN species))
+                        (, ,)
+                        (CONJP (RB rather) (IN than))
+                        (NP (NNS measures)))))
+                  (S
+                    (VP (TO to)
+                      (VP (VB combat)
+                        (NP (DT an) (NN epidemic)))))
+                  (SBAR (IN once)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ has)
+                        (VP (VBN broken)
+                          (PRT (RP out)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB therefore))
+    (VP (VBP welcome)
+      (S
+        (NP
+          (NP (DT the) (NNP Commission) (POS '))
+          (JJ s) (NN initiative))
+        (VP (TO to)
+          (VP (VB create)
+            (NP (DT a) (JJ new) (JJ legal) (NN base))
+            (PP (IN for)
+              (S
+                (VP (VBG combating)
+                  (NP (NN scrapie)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr) (NNP President) (, ,) (NNP Commissioner) (, ,) (NNP Mr) (NNP BÃ) (NNP ¶))
+      (SBAR
+        (S
+          (NP (NNP ge) (POS '))
+          (VP (VBZ s)
+            (NP
+              (NP (NN report))
+              (PP (IN on)
+                (NP (NNS measures)
+                  (S
+                    (VP (TO to)
+                      (VP (VB prevent)
+                        (NP (NNP TSE) (NNS diseases))))))))))))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NNS proposals))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNP European) (NNP Parliament) (POS '))
+                (NNP s) (NNP temporary) (NNP BSE) (NNP Committee)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge))
+        (VP (VBD was)
+          (ADJP (JJ responsible)
+            (PP (IN for)
+              (NP
+                (NP (DT some) (JJ invaluable) (NN work))
+                (PP (IN on)
+                  (NP (DT this) (NN committee))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (NP (DT a) (NN relief)
+            (S
+              (VP (TO to)
+                (VP (VB see)
+                  (SBAR (IN that)
+                    (S
+                      (NP
+                        (NP (DT the) (NN job))
+                        (PP (IN of)
+                          (S
+                            (VP (VBG monitoring)
+                              (NP
+                                (NP (DT the) (NN work))
+                                (PP (IN of)
+                                  (NP (DT the) (NNP BSE) (NNP Committee))))
+                              (PP (IN in)
+                                (NP (DT the) (NNP Committee)))
+                              (PP (IN on)
+                                (NP (NNP Agriculture)
+                                  (CC and)
+                                  (NNP Rural) (NNP Development)))))))
+                      (VP (VBZ has)
+                        (VP (VBN fallen)
+                          (PP (TO to)
+                            (NP (PRP him))))))))))))))
+    (: :)
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN one))
+          (PP (IN with)
+            (NP (DT the) (NN experience))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN liked)
+          (NP (PRP$ my) (NN speech)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (NN part))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (NN discussion))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD would)
+                              (VP (VB have)
+                                (VP
+                                  (ADVP (RB also))
+                                  (VBN treated)
+                                  (NP
+                                    (NP (DT the) (JJ second) (NN part))
+                                    (PP (IN of)
+                                      (NP
+                                        (NP (DT the) (NNP Commission) (POS '))
+                                        (JJ s) (NN proposal)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB not)
+      (VP (VB think)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ appropriate)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB conduct)
+                        (PP (IN in)
+                          (NP (NN part)))
+                        (NP
+                          (NP (DT the) (JJ same) (NN discussion))
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP
+                                (NP
+                                  (NP (NNP Mrs) (NNP Roth-Behrendt) (POS '))
+                                  (JJ s) (NN report))
+                                (PP (IN from)
+                                  (NP
+                                    (NP (DT the) (NNP Committee))
+                                    (PP (IN on)
+                                      (NP
+                                        (NP (DT the) (NN Environment))
+                                        (, ,)
+                                        (NP (NNP Public) (NNP Health))
+                                        (CC and)
+                                        (NP (NNP Consumer) (NNP Policy)))))))
+                              (VP (VBZ is)
+                                (VP (VBN featured)
+                                  (PP (IN in)
+                                    (NP (DT the) (JJ plenary) (NN session))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ previous) (NN speech)))
+    (NP (NNP Mrs) (NNP Schierhuber))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (NNS scrapies))
+          (VP (VBZ is)
+            (NP (DT an)
+              (ADJP (JJ insidious))
+              (NN disease))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB indeed)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (S
+        (VP (TO to)
+          (VP (VB stress)
+            (SBAR
+              (WHADJP (WRB how) (JJ important))
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (SBAR (IN for)
+                    (S
+                      (NP (PRP us))
+                      (VP (TO to)
+                        (VP (VB remain)
+                          (NP
+                            (NP (JJ free))
+                            (PP (IN of)
+                              (NP (NN disease)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN possibility))
+        (PRN (, ,)
+          (SBAR (IN if)
+            (FRAG (JJ necessary)))
+          (, ,)))
+      (PP (IN of)
+        (S
+          (VP (VBG having)
+            (NP
+              (NP (JJ additional) (NNS inspections))
+              (PP (IN of)
+                (NP
+                  (NP (NNS animals))
+                  (PP (IN in)
+                    (NP (DT these) (NNS areas))))))))))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP
+          (NP (DT a) (NN question))
+          (PP (IN of)
+            (NP (JJ artificial) (NN protectionism))))
+        (CC or)
+        (NP
+          (NP (DT the) (NN restriction))
+          (PP (IN of)
+            (NP
+              (NP (NN freedom))
+              (PP (IN of)
+                (NP (NN movement)))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (EX there))
+          (ADVP (RB really))
+          (VP (VBZ is)
+            (NP
+              (NP (NN justification))
+              (PP (IN for)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS inspections))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN seen)
+          (PP (IN as)
+            (S
+              (VP (VBG being)
+                (NP
+                  (ADJP (JJ fair)
+                    (CC and)
+                    (JJ cost-effective))
+                  (NN action)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB promote)
+                          (NP
+                            (NP (DT the) (NN wellbeing))
+                            (PP (IN of)
+                              (NP (NNS animals)))))
+                        (CC and)
+                        (VP (VB prevent)
+                          (NP
+                            (NP (VBN increased) (NN expenditure))
+                            (PP (IN for)
+                              (NP (DT the) (NNP EU)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN On)
+        (NP
+          (NP (NN behalf))
+          (PP (IN of)
+            (NP (DT the) (JJ European) (JJ Liberal) (NNS Democrats)))))
+      (, ,)
+      (NP (PRP we))
+      (VP (MD can)
+        (VP (VB support)
+          (NP
+            (NP
+              (NP (DT the) (NNP Commission) (POS '))
+              (JJ s) (NN proposal))
+            (PP (IN on)
+              (NP
+                (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NN ge) (POS '))
+                (JJ s) (NN report)))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ forthcoming) (NN debate))
+          (PP (IN on)
+            (NP
+              (NP (NNP Mrs) (NNP Roth-Behrendt) (POS '))
+              (JJ s) (NN report)))))
+      (NP (PRP we))
+      (VP (MD must)
+        (VP (VB look)
+          (ADVP (RB again))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN position))
+              (PP (IN of)
+                (NP (DT those) (NNS countries)))))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (NNP TSEs))
+              (VP (VBP do) (RB not)
+                (VP (VB occur))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr) (NNP President))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB too))
+    (VP (MD would)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB offer)
+              (NP (PRP$ my) (NNS congratulations))
+              (PP (TO to)
+                (NP (DT the) (NN rapporteur))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (DT no) (NN doubt)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge))
+              (CC and)
+              (NP
+                (NP (DT the) (NN rapporteur))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NNP Committee))
+                    (PP (IN on)
+                      (NP (DT the) (NNP Environment)))))))
+            (VP (VBP are)
+              (ADVP (RB now))
+              (NP
+                (NP (JJ tremendous) (NNS experts))
+                (PP (IN in)
+                  (NP (DT this) (NN field)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ good))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG continuing)
+              (S
+                (VP (TO to)
+                  (VP (VB monitor)
+                    (NP (DT this) (NN issue))
+                    (PP (IN on)
+                      (NP
+                        (NP (NN behalf))
+                        (PP (IN of)
+                          (NP (NNP Parliament)))))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)
+                          (ADJP (RB extremely) (JJ important)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Regardless)
+        (PP (IN of)
+          (NP (DT the) (JJ many) (JJ other) (NNS concerns))))
+      (NP (PRP we))
+      (VP (MD may)
+        (VP (VB have))))
+    (, ,)
+    (NP (NNP BSE))
+    (VP (VBZ has)
+      (VP (VBN given)
+        (NP (PRP us))
+        (NP
+          (NP (DT a) (JJ terrible) (NN legacy))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ has)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP
+                        (VP (VBN dealt)
+                          (PP (IN with)))
+                        (CC and)
+                        (VP (VBN resolved))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB quite) (JJ clear))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN incidence))
+            (PP (IN of)
+              (NP
+                (NP (NN scrapie))
+                (PP (IN in)
+                  (NP (NN sheep))))))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (NP
+                (NP (DT a) (JJ contributing) (NN factor))
+                (PP (TO to)
+                  (NP (DT the) (JJ overall) (NN problem)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP welcome)
+      (NP
+        (NP
+          (NP (DT the) (JJ legal) (NN base))
+          (VP (VBG being)
+            (VP (VBN set))))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ comprehensive) (NN way))
+          (SBAR
+            (S
+              (NP (DT the) (JJ new) (NNS rules))
+              (VP (MD will)
+                (PRN (, ,)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP hope)))
+                  (, ,))
+                (VP (VB address)
+                  (NP (DT this) (NN situation)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD must)
+      (VP (VB ensure)
+        (SBAR (IN that)
+          (S
+            (NP (NN nothing))
+            (VP (MD can)
+              (VP (VB enter)
+                (S
+                  (NP
+                    (NP (DT the) (NN food) (NN chain))
+                    (CC or)
+                    (NP (DT the) (NN animal) (NN compound) (NN feed)))
+                  (VP (TO to)
+                    (VP (VB allow)
+                      (SBAR
+                        (WHNP (WP what))
+                        (S
+                          (NP (PRP we))
+                          (VP (VBP have)
+                            (VP (VBN experienced)
+                              (PP (IN in)
+                                (NP (DT the) (NN past)))
+                              (S
+                                (VP (TO to)
+                                  (VP (VB happen)
+                                    (ADVP (RB again))
+                                    (PP (IN in)
+                                      (NP (DT the) (NN future)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP No-one))
+    (VP (MD would)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBD happened)
+                    (PP (TO to)
+                      (NP
+                        (NP (NNS farmers))
+                        (PP (IN with)
+                          (NP (NNP BSE)))))
+                    (VP (VB happen)
+                      (ADVP (RB ever))
+                      (ADVP (RB again)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB bring)
+              (PP (IN in)
+                (NP (DT the)
+                  (ADJP (RBS most) (JJ stringent))
+                  (NNS rules))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (S
+                (NP (PRP them))
+                (VP (VB work))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (RB extremely) (JJ important))
+        (PP (DT both) (IN for)
+          (NP
+            (NP (DT the) (NN producer))
+            (CC and)
+            (NP (DT the) (NN consumer))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VB restore)
+              (NP
+                (NP (NN confidence))
+                (CC and)
+                (NP (DT the) (JJ only) (NN way))))))))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB do)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (PP (IN by)
+                (S
+                  (VP
+                    (VP
+                      (ADVP (RB rigorously))
+                      (VBG tackling)
+                      (NP (DT the) (NN problem)))
+                    (CC and)
+                    (VP (VBG resolving)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP BSE))
+    (VP (VBZ has)
+      (ADVP (RB certainly) (RB not))
+      (VP (VBN gone)
+        (PRT (RP away))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB see)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (JJ different) (NNS countries)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB not)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB point)
+                (NP (DT the) (NN finger))
+                (PP (IN at)
+                  (NP (DT any) (JJ particular) (NN country)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ many) (NNS countries))
+      (VP (VBP are)
+        (ADVP (RB now))
+        (VP (VBG facing)
+          (NP (JJ similar) (NNS problems))
+          (PP (TO to)
+            (NP
+              (NP (DT those))
+              (SBAR
+                (S
+                  (NP (PRP we))
+                  (VP (VBP have)
+                    (VP (VBN had)
+                      (PP (IN in)
+                        (NP (DT the) (NNP United) (NNP Kingdom))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB be)
+        (ADVP (RB there)
+          (PP (IN for)
+            (NP (DT some) (NN time)
+              (S
+                (VP (TO to)
+                  (VP (VB come)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB ensure)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (JJ whole) (NN system))
+                  (PP (IN of)
+                    (NP (NN traceability)))
+                  (, ,)
+                  (PP (IN of)
+                    (S
+                      (VP (VBG following)
+                        (NP
+                          (NP (DT the) (NN animal))
+                          (PP (IN from)
+                            (NP (NN birth))))
+                        (PP (IN until)
+                          (NP (NN slaughter)
+                            (CC and)
+                            (NN right)))
+                        (PP (IN through)
+                          (NP (DT the) (JJ whole) (NN food) (NN chain))))))
+                  (, ,))
+                (VP (VBZ is)
+                  (NP
+                    (NP (NN part))
+                    (PP (IN of)
+                      (NP (DT that) (JJ confidence-building) (NN mechanism)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP we))
+        (VP (VBP are) (RB not)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB achieve)
+                  (NP (DT that))
+                  (ADVP (RB then)))))))))
+    (NP (PRP we))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (JJ tremendous) (NN trouble))
+          (PP (IN in)
+            (NP (DT the) (NN future))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB certainly))
+      (VP (VBN believed)
+        (PP (IN for)
+          (NP (DT a) (JJ long) (NN time)))
+        (, ,)
+        (S
+          (VP (VBG coming)
+            (PP (IN from)
+              (NP (DT an) (JJ agricultural) (NN background) (PRP myself)))))
+        (, ,)
+        (SBAR (IN that)
+          (S
+            (SBAR (IN if)
+              (S
+                (NP (PRP we))
+                (VP (VBD had)
+                  (VP (VBN fed)
+                    (UCP
+                      (NP
+                        (NP (DT the) (NNS animals))
+                        (NP (DT the) (JJ proper) (NN food)))
+                      (CC and)
+                      (SBAR (IN if)
+                        (S
+                          (NP (DT the) (NN animal) (NNS feedstuffs))
+                          (VP (VBD had)
+                            (VP (VBN been)
+                              (VP (VBN made)
+                                (PRT (RP up))
+                                (PP (IN of)
+                                  (NP (DT the) (JJ proper) (NNS compounds)))))))))))))
+            (NP (PRP we))
+            (VP (MD would)
+              (ADVP (RB never))
+              (VP (VB have)
+                (VP (VBN had)
+                  (NP
+                    (NP (NNP BSE))
+                    (PP (IN in)
+                      (NP (DT the) (JJ first) (NN place)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADVP (RB never))
+        (NP
+          (NP (DT the) (NN responsibility))
+          (PP (IN of)
+            (NP (DT the) (NN farmer))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (NP (DT the) (NN food) (NNS compounders))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD caused)
+                (NP (DT this) (NN problem))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB ensure)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP it))
+                  (ADVP (RB never))
+                  (VP (VBZ happens)
+                    (ADVP (RB again)))))))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr) (NNP President))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ pleased)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (VP (VBN been)
+                (VP (VBN given)
+                  (NP (DT this) (NN opportunity)
+                    (S
+                      (VP (TO to)
+                        (VP (VB discuss)
+                          (NP (DT a) (NN subject))
+                          (SBAR
+                            (WHADVP (WRB where))
+                            (S
+                              (NP (EX there))
+                              (VP (VBZ is)
+                                (NP
+                                  (NP (JJ good) (NN cooperation))
+                                  (PP (IN between)
+                                    (NP
+                                      (NP (NNP Parliament))
+                                      (CC and)
+                                      (NP (DT the) (NNP Commission)))))
+                                (, ,)
+                                (S
+                                  (ADVP (RB namely))
+                                  (VP (VBG combating)
+                                    (NP (NNS TSEs))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD should)
+      (ADVP (RB also))
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB thank)
+              (NP
+                (NP (NNP Mr) (NNP BÃ) (NNP ¶) (NNP ge))
+                (PP (IN for)
+                  (NP (PRP$ his) (NN work))))
+              (PP (IN on)
+                (NP (DT this) (NN issue))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Considerable) (NN progress))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN made)
+          (PP (IN on)
+            (NP
+              (NP (PRP$ our) (NN proposal))
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (JJ European) (NNP Parliament)
+                    (CC and)
+                    (NNP Council) (NN regulation))
+                  (PP (IN under)
+                    (NP (NNP Article) (CD 152)))
+                  (PP (IN of)
+                    (NP (DT the) (NNP Treaty)))))))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN prevention)
+                (CC and)
+                (NN control))
+              (PP (IN of)
+                (NP (NNP TSEs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN proposal))
+    (VP (VBZ addresses)
+      (NP (DT all) (NNP TSE) (NN risk))
+      (PP (IN in)
+        (NP
+          (NP (DT all) (NNS animals))
+          (PP (IN at)
+            (NP
+              (NP (DT all) (NNS stages))
+              (PP (IN of)
+                (NP (DT the) (NN production) (NN chain))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADVP (RB here))
+      (VP
+        (NP (NN today))
+        (S
+          (VP (TO to)
+            (VP (VB listen)
+              (PP (TO to)
+                (NP (PRP$ your) (NNS opinions)))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (JJ first) (NN step))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT this) (NN process))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG establishing)
+                            (NP (DT a)
+                              (ADJP (RB truly) (JJ comprehensive))
+                              (NNP Community) (NN system))
+                            (PP (IN for)
+                              (NP
+                                (NP (DT the) (NN control))
+                                (PP (IN of)
+                                  (NP (DT these) (NNS diseases)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN proposed)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN proposal))
+            (PP (IN at)
+              (NP (NN hand)))))
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB delete)
+                (NP (DT all) (RB currently) (VBG existing))
+                (NP
+                  (NP (NNP Community) (NNS rules))
+                  (PP (IN on)
+                    (NP
+                      (NP (NN scrapie))
+                      (PP (IN in)
+                        (NP (NN sheep)
+                          (CC and)
+                          (NNS goats))))))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB transpose)
+                (NP (PRP them))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NN framework) (NN proposal))
+                    (PP (IN for)
+                      (NP (DT a) (NN regulation)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ detailed) (NNS rules))
+    (VP (MD would) (RB then)
+      (VP (VB follow)
+        (PP (IN in)
+          (NP (DT that) (NN framework) (NN proposal)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN informed)
+          (SBAR (IN that)
+            (S
+              (NP (PRP you))
+              (VP (VBP welcome)
+                (S
+                  (NP
+                    (NP (DT this) (NN initiative))
+                    (, ,)
+                    (SBAR (IN as)
+                      (S
+                        (VP (VBZ appears)
+                          (PP (IN from)
+                            (NP (PRP$ your) (NNS contributions)))
+                          (NP (DT this) (NN afternoon)))))
+                    (, ,))
+                  (VP (TO to)
+                    (VP (VB formulate)
+                      (NP (DT a) (JJ single) (NN text)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG looking)
+        (ADVP (RB forward))
+        (PP
+          (PP (TO to)
+            (S
+              (VP (VBG discussing)
+                (NP
+                  (NP (DT any) (JJ further) (NNS improvements))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (MD might)
+                        (VP (VB wish)
+                          (S
+                            (VP (TO to)
+                              (VP (VB suggest)
+                                (PP (IN under)
+                                  (NP
+                                    (NP (DT the) (NN framework) (NN proposal))
+                                    (PP (IN for)
+                                      (NP (DT the) (NN legislation))))))))))))))))
+          (, ,) (RB especially)
+          (PP (IN after)
+            (NP
+              (NP (DT the) (NN reference))
+              (VP (VBN made)
+                (PP (IN by)
+                  (NP
+                    (NP (NNP Mrs) (NNP Roth-Behrendt))
+                    (PP (TO to)
+                      (NP (PRP$ her) (JJ own) (NN report)
+                        (CC and)
+                        (NN opinion)))))
+                (PP (IN on)
+                  (NP (DT this) (NN issue)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP look)
+      (ADVP (RB forward))
+      (PP (TO to)
+        (NP
+          (NP (NN receipt))
+          (PP (IN of)
+            (NP
+              (NP (DT that) (NN document))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (MD will)
+                    (VP (VB be)
+                      (VP (VBN taken)
+                        (PP (IN into)
+                          (NP
+                            (NP (NN account))
+                            (PP (IN in)
+                              (NP
+                                (NP (DT all) (JJ further) (NNS considerations))
+                                (PP (IN in)
+                                  (NP (NN relation)))))))
+                        (PP (TO to)
+                          (NP (DT this) (NN issue)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB say)
+        (NP
+          (NP (DT this))
+          (PP (IN in)
+            (NP (NN relation))))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN observation))
+            (PP (IN about)
+              (S
+                (VP (VBG including)
+                  (NP (NN legislation))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS annexes))
+                      (CC and)
+                      (NP (DT the) (NN observation))))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP we))
+                      (VP (MD must)
+                        (VP (VB achieve)
+                          (NP
+                            (NP (DT an) (JJ effective) (NN balance))
+                            (PP (IN between)
+                              (NP (NNP Parliament))))
+                          (S
+                            (VP (VBG having)
+                              (S
+                                (NP
+                                  (NP (DT a) (JJ full) (NN say))
+                                  (CC and)
+                                  (ADVP (RB yet)
+                                    (PP (IN at)
+                                      (NP (DT the) (JJ same) (NN time))))
+                                  (NP (PRP$ our)))
+                                (VP (VBG having)
+                                  (NP
+                                    (NP (JJ speedy) (NNS resolutions))
+                                    (, ,)
+                                    (NP (JJ speedy) (NN legislation))
+                                    (CC and)
+                                    (NP (JJ speedy) (NNS amendments)))
+                                  (PP (TO to)
+                                    (NP (JJ existing) (NN legislation))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (NNS months)))
+      (NP (PRP I))
+      (VP
+        (VP (VBP have)
+          (VP (VBN been)
+            (NP (NNP Commissioner))))
+        (CC and)
+        (VP (VBD observed)
+          (SBAR
+            (S
+              (NP (DT the) (NN way) (NN legislation))
+              (VP (VBZ goes)
+                (PP (IN through)
+                  (NP (DT the) (NN system)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD can)
+      (VP (VB see)
+        (SBAR (IN that)
+          (S
+            (NP (JJ much) (NN work))
+            (VP (VBZ needs)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN done)
+                      (PP (IN on)
+                        (NP (DT this) (NN issue)))
+                      (SBAR (RB so) (IN that)
+                        (S
+                          (NP (PRP we))
+                          (VP (MD can) (RB all)
+                            (VP (VB achieve)
+                              (SBAR
+                                (WHNP (WP what))
+                                (S
+                                  (NP (PRP we))
+                                  (VP (VBP seek)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB achieve) (, ,)
+                                          (INTJ (DT that) (VBZ is))
+                                          (, ,)
+                                          (NP
+                                            (NP (DT the) (NN translation))
+                                            (PP (IN of)
+                                              (NP
+                                                (NP (NN policy))
+                                                (PP (IN into)
+                                                  (NP (NN legislation)))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (NP (PRP you)))
+    (, ,)
+    (NP (NNP Commissioner))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN debate))
+    (VP (VBZ is)
+      (ADJP (JJ closed)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN vote))
+    (VP (MD will)
+      (VP (VB take)
+        (NP (NN place) (NN tomorrow))
+        (PP (IN at)
+          (NP
+            (NP (CD 11.30) (RB a.m.) (NNP Community) (NN policy))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN field))
+                (PP (IN of)
+                  (NP (NN water)))))))))
+    (. .)))
+
+(ROOT
+  (NP (: -)
+    (NP
+      (NP
+        (PRN (-LRB- -LRB-)
+          (NP (NNP FR))
+          (-RRB- -RRB-))
+        (NNP Mr) (NNP President))
+      (, ,)
+      (NP (NNS Commissioners) (, ,) (NNS ladies)
+        (CC and)
+        (NNS gentlemen)))
+    (, ,)
+    (NP
+      (NP (NN water))
+      (SBAR
+        (S
+          (VP (MD will)
+            (VP (VB be)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP (DT the) (JJ main) (JJ environmental)
+                    (CC and)
+                    (NN world) (NNS issues)))
+                (PP (IN of)
+                  (NP (DT the) (JJ twenty-first) (NN century)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Climate) (NN change))
+      (, ,)
+      (NP (JJ global) (NNS resources))
+      (, ,)
+      (NP (NN river) (NN quality))
+      (CC and)
+      (NP (NN groundwater) (NN aquifer) (NN quality)))
+    (VP (VBP are)
+      (NP
+        (NP (JJ major) (NNS challenges))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP threaten)
+              (NP (PRP$ our) (JJ common) (NN future)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (MD will) (RB either)
+        (VP (VB be)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB restore)
+                  (NP (NN water) (NN quality))
+                  (S
+                    (VP (TO to)
+                      (VP (VB suit)
+                        (NP
+                          (NP (DT the) (NN planet) (POS '))
+                          (JJ s) (NN ecosystem))))))))))))
+    (CC or)
+    (S
+      (NP (PRP we))
+      (VP (MD will)
+        (VP (VB experience)
+          (NP
+            (NP (DT a) (JJ whole) (NN range))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (JJ adverse) (NNS events))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (MD will)
+                        (VP (VB threaten)
+                          (NP
+                            (NP (DT the) (NN development))
+                            (PP (IN of)
+                              (NP (JJ certain) (NNS regions)))))))))
+                (, ,)
+                (NP
+                  (NP (DT the) (VBG living) (NNS conditions))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN inhabitants))
+                      (PP (IN of)
+                        (NP (JJ other) (NNS regions))))))
+                (CC and)
+                (ADVP (RB even))
+                (, ,)
+                (NP
+                  (NP (JJR more) (NNS fundamentally))
+                  (, ,)
+                  (NP (DT the) (JJ global) (NN balance)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB support)
+          (NP (DT this) (NN statement)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB point)
+        (PP (TO to)
+          (NP
+            (NP (DT an) (JJ excellent) (NN report))
+            (VP (VBN drafted)
+              (PP (IN by)
+                (NP
+                  (NP (PRP$ our) (NN colleague))
+                  (, ,)
+                  (NP (NNP MÃ) (NNP ¡) (NNP rio) (NNP Soares))
+                  (, ,)))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ international) (NNS bodies))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN state))
+                      (PP (IN of)
+                        (NP (DT the) (NNS seas)
+                          (CC and)
+                          (NNS oceans))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (VP (VBG talking)
+          (PP (IN about)
+            (NP (NN climate) (NN change))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP have)
+      (ADVP (RB rightly))
+      (VP (VBN referred)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN greenhouse) (NN effect))
+            (CC and)
+            (NP
+              (NP (DT the) (NN state))
+              (PP (IN of)
+                (NP (DT the) (NN atmosphere))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Yet)
+    (NP (PRP we))
+    (ADVP (RB also))
+    (VP (VBP know)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN deterioration))
+            (PP (IN of)
+              (NP (DT the) (NNS oceans))))
+          (VP (MD will)
+            (ADVP (RB significantly))
+            (VP (VB destabilise)
+              (NP
+                (NP (JJ whole) (NNS areas))
+                (PP (IN of)
+                  (NP (PRP$ our) (NN planet)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Europe))
+    (VP (MD must)
+      (ADVP (RB therefore))
+      (VP (VB lead)
+        (PP (IN by)
+          (NP
+            (NP (NN example))
+            (PP (TO to)
+              (NP (DT some) (NN extent))))
+          (, ,)
+          (ADVP (DT both)))
+        (SBAR
+          (SBAR (IN because)
+            (S
+              (NP (PRP it))
+              (VP (MD must)
+                (VP (VB promote)
+                  (NP (DT a) (JJ certain) (NN development) (NN model))))))
+          (CC and)
+          (SBAR (IN because)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (S
+                  (NP (PRP itself))
+                  (VP (VBG facing)
+                    (NP
+                      (NP (JJ serious) (NNS problems))
+                      (PP (IN of)
+                        (NP (NN pollution)
+                          (CC and)
+                          (NN deterioration)))
+                      (PP (IN of)
+                        (NP (PRP$ its) (NNS waters)))
+                      (, ,)
+                      (PP (VBG including)
+                        (NP (PRP$ its) (NN groundwater) (, ,) (NN surface) (NNS waters)
+                          (CC and)
+                          (NNS seas))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Furthermore))
+    (, ,)
+    (NP (NNP Europe))
+    (VP (VBZ has)
+      (VP (VBN signed)
+        (NP (JJ international) (NNS conventions))
+        (, ,)
+        (PP (IN in)
+          (NP
+            (NP (JJ particular) (DT the) (JJ OSPAR) (NN Convention))
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT which)))
+              (S
+                (NP (PRP it))
+                (VP (VBD made)
+                  (NP (JJ certain) (NNS commitments)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT this)))
+    (NP (PRP it))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (S
+            (PP (IN in)
+              (NP
+                (NP (DT a) (JJ few) (NNS years) (POS '))
+                (NN time)))
+            (NP (PRP we))
+            (VP (MD must)
+              (VP (VB have)
+                (VP
+                  (VP (VBN stopped)
+                    (S
+                      (VP (VBG dumping)
+                        (NP (NN pollution)))))
+                  (CC and)
+                  (VP (VBN halted)
+                    (NP
+                      (NP (DT the) (NN increase))
+                      (PP (IN of)
+                        (NP (NN pollution)))))))))
+          (CC and)
+          (S
+            (NP (PRP we))
+            (VP (MD must)
+              (VP (VB have)
+                (VP (VBN reached)
+                  (NP
+                    (NP (DT a) (JJ near) (NN zero) (NN level))
+                    (PP (IN of)
+                      (NP
+                        (ADJP (NN toxic)
+                          (CC and)
+                          (JJ dangerous))
+                        (NNS substances)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Despite)
+      (S
+        (VP (VBG having)
+          (VP (VBN signed)
+            (NP (DT these) (JJ international) (NNS agreements))))))
+    (, ,)
+    (NP
+      (NP (DT this) (NN directive))
+      (CC and)
+      (NP
+        (NP (DT the) (JJ specific) (NNS policies))
+        (PP (IN in)
+          (NP (DT the) (NN field)))))
+    (VP (VBP reveal)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Europe))
+          (VP
+            (VP (MD can) (RB not)
+              (VP (VB achieve)
+                (NP (DT the) (NNS objectives) (NN set))))
+            (CC or)
+            (VP (MD must)
+              (VP (VB defer)
+                (NP (DT these))
+                (PP (IN for)
+                  (ADVP (RB so) (RB long)))
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT the) (JJ very) (NN credibility))
+                      (PP (IN of)
+                        (NP
+                          (NP (PRP$ its) (NN signature))
+                          (PP (IN of)
+                            (NP (DT these) (JJ international) (NNS conventions))))))
+                    (VP (VBZ is)
+                      (VP (VBN threatened)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP European) (NNP Union) (POS '))
+      (JJ s) (NN water) (NN policy))
+    (VP (VBZ is) (RB not)
+      (VP (VBG starting)
+        (PP (IN from)
+          (NP (CD zero)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Many) (NNS directives))
+    (VP (VBP have)
+      (ADVP (RB already))
+      (VP (VBN been)
+        (VP (VBN adopted))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Furthermore))
+    (, ,)
+    (NP (DT the) (NNP Commission))
+    (VP (VBZ wants)
+      (S
+        (VP
+          (VP (TO to)
+            (VP (VB make)
+              (S
+                (NP (DT these) (NNS directives))
+                (ADJP
+                  (ADJP (RBR more) (JJ understandable))
+                  (CC and)
+                  (ADJP (RBR more) (JJ compatible)
+                    (PP (IN with)
+                      (NP (DT each) (JJ other))))))))
+          (CC and)
+          (VP (TO to)
+            (VP (VB give)
+              (NP (PRP them))
+              (NP (JJR clearer) (NNS objectives)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN preparation))
+      (PP (IN of)
+        (NP (DT this) (NN framework) (NN directive))))
+    (VP (VBZ is)
+      (ADVP (RB therefore))
+      (VP (VBN prompted)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (NN desire))
+            (PP (IN for)
+              (NP (NN rationalisation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (PP (IN at)
+      (NP (JJ first) (NN reading)))
+    (NP (DT this) (NNP House))
+    (VP
+      (VP (VBD insisted)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJ current) (NN directive))
+            (VP (MD should) (RB not)
+              (ADVP (RB only))
+              (VP (VB be)
+                (ADJP (JJ compatible)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NNS commitments))
+                      (VP (VBN made) (, ,)
+                        (PP (IN like)
+                          (NP (NNP OSPAR))))))))))))
+      (, ,)
+      (CC but)
+      (VP (MD should)
+        (VP (VB allow)
+          (S
+            (NP (PRP us))
+            (VP (TO to)
+              (VP (VB reverse)
+                (NP
+                  (NP (DT the) (NN course))
+                  (PP (IN of)
+                    (NP (NNS affairs))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For) (IN despite)
+      (NP
+        (NP (DT these) (NNS directives))
+        (CC and)
+        (NP
+          (NP (JJ frequent) (NNS declarations))
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NN effort))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (MD must)
+                    (VP (VB be)
+                      (VP (VBN made)
+                        (PP (IN in)
+                          (NP
+                            (NP (NNS terms))
+                            (PP (IN of)
+                              (NP
+                                (NP (NN water) (NN protection))
+                                (, ,)
+                                (SBAR
+                                  (WHADVP (WRB when))
+                                  (S
+                                    (NP (PRP we))
+                                    (VP (VBP look)
+                                      (PP (IN at)
+                                        (NP
+                                          (NP (DT the) (NN state))
+                                          (PP (IN of)
+                                            (NP
+                                              (NP (DT the) (NN environment))
+                                              (PP (IN in)
+                                                (NP (NNP Europe))))))))))))))))))))))))
+    (NP (PRP we))
+    (VP (MD can)
+      (VP (VB see)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS objectives))
+            (VP (VBP have) (RB not)
+              (VP (VBN been)
+                (VP (VBN achieved))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (JJ many) (NNS cases)))
+      (NP (DT the) (NN situation))
+      (VP (VBZ has)
+        (VP (VBN deteriorated))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (RB therefore))
+      (VP (MD can) (RB not)
+        (VP (VB settle)
+          (PP (IN for)
+            (NP
+              (NP (RB just) (NN rationalisation))
+              (PP (IN of)
+                (NP (DT the) (NNS texts))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD must)
+      (VP (VB set)
+        (NP
+          (NP (NNS objectives))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (ADJP (JJ equal)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (NNS challenges))
+                      (VP (VBG facing)
+                        (NP (PRP us))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Yet)
+    (NP (PRP we))
+    (VP (VBP do) (RB not)
+      (VP (VB have)
+        (NP (JJ much) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ clear))
+      (SBAR (IN that)
+        (S
+          (PP (IN in)
+            (NP (DT this) (NN event)))
+          (NP (DT the) (NNS objectives))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB be)
+              (VP (VBN achieved)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJ clear))
+      (SBAR (IN that)
+        (S
+          (SBAR (IN if)
+            (S
+              (NP (PRP we))
+              (VP (VBP do)
+                (NP (NN nothing)))))
+          (, ,)
+          (NP (PRP$ our) (NN agriculture))
+          (VP (MD will)
+            (VP (VB continue)
+              (S
+                (VP (TO to)
+                  (VP (VB develop)
+                    (PP (IN in)
+                      (NP (DT a)
+                        (ADJP (RB very) (JJ unbalanced))
+                        (NN manner)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Even) (RB now))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (NNS rivers))
+        (PP (IN in)
+          (NP (NNP Brittany))))
+      (VP (VBP are)
+        (VP (VBG eutrophying))))
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (VP (VBG damaging)
+          (NP (NN tourism)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB conclude))))
+    (, ,)
+    (NP (DT the) (NNS issues))
+    (VP (VBP are)
+      (ADJP (JJ clear)
+        (PP (IN at)
+          (NP (DT this) (JJ second) (NN reading)))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP
+      (VP (VB Do)
+        (NP (PRP we)))
+      (CC or)
+      (VP (VB do)
+        (S
+          (NP (PRP we))
+          (RB not)
+          (VP (VB want)
+            (S
+              (NP (NNS standards))
+              (ADJP (JJ compatible)
+                (PP
+                  (PP (IN with)
+                    (NP (NNP OSPAR)))
+                  (, ,)
+                  (PP (IN in)
+                    (NP (JJ other) (NNS words)))))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (JJ dangerous) (NNS substances))
+                    (PRT (RP down))
+                    (PP (TO to)
+                      (NP (CD zero)))))))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP we))
+    (VP (VB want)
+      (S
+        (VP (TO to)
+          (VP (VB shorten)
+            (NP
+              (NP (DT the) (NNS deadlines))
+              (VP (VBN proposed)
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NNP Council))
+                    (PP (IN for)
+                      (NP (DT this) (NN directive)))))))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP we))
+    (VP (VB want)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (DT a) (NN pricing) (NN policy))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ enables)
+                    (S
+                      (NP (DT all) (JJ public)
+                        (CC and)
+                        (JJ private) (NNS participants))
+                      (VP (TO to)
+                        (VP
+                          (VP (VB clean)
+                            (PRT (RP up)))
+                          (CC and)
+                          (VP (VB save)
+                            (NP (NN water))))))))))))))
+    (. ?)))
+
