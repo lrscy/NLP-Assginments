@@ -2,5 +2,7 @@ HW2/Tools/*
 *.pem
 *.bin
 *.swp
-*/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/
 */Data/
+*.ipynb
+*.ipynb
