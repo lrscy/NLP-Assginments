@@ -4,7 +4,9 @@
 
 ### Environment
 
-[Jupyter](https://jupyter.org/), [Python3](https://www.python.org/downloads/)
+- [Java](https://java.com/download/)
+- [Jupyter](https://jupyter.org/)
+- [Python3](https://www.python.org/downloads/)
 
 ### How to run
 
@@ -18,7 +20,7 @@ On AWS EC2 p2.xlarge environment with 4 vCPU, "Run All" may spend more than thre
 
 If you have not extracted proper sentences from files, you need to call functions below first:
 
-```Python
+```Pthon
 filesName = getFilesName( "data/corpus/" )
 contents = getContents( filesName )
 writeContents( contents )
@@ -32,6 +34,9 @@ filesName = getFilesName( "data/corpus/" )
 ```
 to get files name and run corresponding function of problem 1.1, 1.2, 1.3 in main function
 seperately. The only parameter you need to change is the file path when calling those functions.
+
+If you want to change save filename or others parameter, please follow notes in code and modify
+corresponding path or parameters.
 
 ## Contributor
 
