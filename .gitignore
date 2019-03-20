@@ -1,10 +1,9 @@
-*/Tools/*
-*/.ipynb_checkpoints/
-*/Data/
-*/save/
+**/Tools/
+**/.ipynb_checkpoints/
+**/Data/
+**/save/
 *.pem
 *.bin
 *.swp
-*/Data/
 *.ipynb
 *.zip
