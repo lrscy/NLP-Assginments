@@ -1,9 +1,6 @@
 Tools/
 .ipynb_checkpoints/
-Data/
-save/
 *.pem
 *.bin
 *.swp
-*.ipynb
 *.zip
