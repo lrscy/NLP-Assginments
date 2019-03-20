@@ -1,8 +1,10 @@
-HW2/Tools/*
+*/Tools/*
+*/.ipynb_checkpoints/
+*/Data/
+*/save/
 *.pem
 *.bin
 *.swp
-*/.ipynb_checkpoints/
 */Data/
 *.ipynb
-*.ipynb
+*.zip
