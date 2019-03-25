@@ -1,0 +1,3 @@
+Final accuracy on the whole training set:
+
+1.0

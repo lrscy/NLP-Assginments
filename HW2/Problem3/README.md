@@ -16,6 +16,15 @@
 
 You can find and install them by [PyPI](https://pypi.org/) and [Conda](https://conda.io/en/latest/).
 
+### Notes
+
+All outputs are saved in "save" folder. You can also find them in Jupyter notebooks in each
+sub-problem's folder.
+
+### Before run
+
+Before running, please read and follow the README file in Data folder.
+
 ### How to run
 
 To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label.

@@ -21,6 +21,10 @@ You can find and install them by [PyPI](https://pypi.org/) and [Conda](https://c
 
 ### How to run
 
+#### Before run
+
+Before running, please read and follow the README file in Data folder.
+
 #### Simple run
 
 To run the code, you need to open it in Jupyter and click the "Run All" in "Cell" label.
@@ -58,6 +62,12 @@ You need to change path to position that your corpus saves.
 To change language, you need to modify following codes and check the support of nltk:
 ``` python
 stop_words = set( nltk.corpus.stopwords.words( "english" ) )
+```
+
+To change word2vec bin file path, please modify following codes:
+``` python
+word2vec = gensim.models.KeyedVectors.load_word2vec_format(
+                "Data/GoogleNews-vectors-negative300.bin", binary = True )
 ```
 
 ## Contributor
